@@ -1,0 +1,50 @@
+/* =========== */
+/* Sweet Alert */
+/* =========== */
+.swal2-modal {
+  font-family: "Roboto", sans-serif;
+  box-shadow: 0 10px 33px rgba(0, 0, 0, 0.1); }
+  .swal2-modal .swal2-title {
+    font-size: 28px; }
+  .swal2-modal .swal2-content {
+    font-size: 16px; }
+  .swal2-modal .swal2-spacer {
+    margin: 10px 0; }
+  .swal2-modal .swal2-file, .swal2-modal .swal2-input, .swal2-modal .swal2-textarea {
+    border: 2px solid #98a6ad;
+    font-size: 16px;
+    box-shadow: none; }
+  .swal2-modal .swal2-confirm.btn-confirm {
+    background-color: #02c0ce !important; }
+  .swal2-modal .swal2-cancel.btn-cancel {
+    background-color: #f1556c !important; }
+  .swal2-modal .swal2-styled:focus {
+    box-shadow: none !important; }
+
+.swal2-icon.swal2-question {
+  color: #02c0ce;
+  border-color: #02c0ce; }
+
+.swal2-icon.swal2-success {
+  border-color: #0acf97; }
+  .swal2-icon.swal2-success .line, .swal2-icon.swal2-success [class^=swal2-success-line][class$=long],
+  .swal2-icon.swal2-success [class^=swal2-success-line] {
+    background-color: #0acf97; }
+  .swal2-icon.swal2-success .placeholder, .swal2-icon.swal2-success .swal2-success-ring {
+    border-color: #0acf97; }
+
+.swal2-icon.swal2-warning {
+  color: #f9bc0b;
+  border-color: #f9bc0b; }
+
+.swal2-icon.swal2-error {
+  border-color: #f1556c; }
+  .swal2-icon.swal2-error .line {
+    background-color: #f1556c; }
+
+.swal2-modal .swal2-file:focus, .swal2-modal .swal2-input:focus, .swal2-modal .swal2-textarea:focus {
+  outline: 0;
+  border: 2px solid #02c0ce; }
+
+.swal2-container.swal2-shown {
+  background-color: rgba(49, 58, 70, 0.9); }

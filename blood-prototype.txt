@@ -1,0 +1,10 @@
+admin woh dekh sakte hai ki kitne donors and recievers hai and woh mere upcoming camps dekh sakte hai and they can contact us and inquiry
+
+
+admin panel mei jo admin hoge toh woh woh mere donors and receivers dekh sakte hai aur blood stock dekh skte hai
+eg 2 hi admin hai
+
+
+donors add hone pe db mei blood stock +1 hoga
+recieve hone pe mere db mei blood stock - hoga
+
